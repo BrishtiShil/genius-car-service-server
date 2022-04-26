@@ -111,9 +111,6 @@ app.listen(port, () => {
     console.log('Listening to port', port);
 })
 
-// password: x783gGouDytQzKz2
-// user: brishti
-
 
 
 
